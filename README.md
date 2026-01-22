@@ -1,9 +1,11 @@
 # Maratón Galáctico 
 
-📌 **Descripción**: El presente programa fue creado con la intención de entretener al público. Tomando en consideración las sensaciones que querían transmitirse, se ambientó el espacio dando como resultado un videojuego capaz de introducir al gamer en el espacio sideral y hacerlo superar obstáculos mientras busca la salida que lo llevará de vuelta a su mundo. Efectos sonoros, recolecta de monedas, ríos de lava que flotan con la gravedad son algunas de las vívidas experiencias que descubrirás si te atreves a sumergirte en esta maratón galáctica.<br>
+📌 **`Descripción: `**<br>
+El presente programa fue creado con la intención de entretener al público. Tomando en consideración las sensaciones que querían transmitirse, se ambientó el espacio dando como resultado un videojuego capaz de introducir al gamer en el espacio sideral y hacerlo superar obstáculos mientras busca la salida que lo llevará de vuelta a su mundo. Efectos sonoros, recolecta de monedas, ríos de lava que flotan con la gravedad son algunas de las vívidas experiencias que descubrirás si te atreves a sumergirte en esta maratón galáctica.<br>
 <br>
 
-**`🔧 **Tecnologías**: Python, Pygame, Json`**<br>
+**`🔧 **Tecnologías**:`**<br>
+Python, Pygame, Json
 <br>
 
 **`📝 **Funciones**:`**
